@@ -34,6 +34,7 @@ def get_wordcloud(page_name):
 
 
 st.title("Wikipedia Word Cloud")
+st.markdown("[GitHub repo](https://github.com/georgeamccarthy/wikipedia-word-cloud)")
 
 query = st.text_input(label="Enter the title of a Wikipedia article")
 
