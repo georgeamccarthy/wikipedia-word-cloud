@@ -1,0 +1,4 @@
+wordcloud
+matplotlib
+wikipedia
+streamlit
